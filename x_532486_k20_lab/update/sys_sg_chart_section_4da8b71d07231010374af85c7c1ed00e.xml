@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_chart_section">
+    <sys_sg_chart_section action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <charts>a168335d07231010374af85c7c1ed0f6,3b38bf1d07231010374af85c7c1ed0f5</charts>
+        <data_item/>
+        <hide_header>false</hide_header>
+        <hide_section_if_empty>false</hide_section_if_empty>
+        <orientation>horizontal</orientation>
+        <required_roles/>
+        <sys_class_name>sys_sg_chart_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-28 22:08:06</sys_created_on>
+        <sys_id>4da8b71d07231010374af85c7c1ed00e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Current Sprint</sys_name>
+        <sys_package display_value="K20 Lab" source="x_532486_k20_lab">51443b5907231010374af85c7c1ed060</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="K20 Lab">51443b5907231010374af85c7c1ed060</sys_scope>
+        <sys_update_name>sys_sg_chart_section_4da8b71d07231010374af85c7c1ed00e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-28 22:08:06</sys_updated_on>
+        <table/>
+        <title>Current Sprint</title>
+        <type>single_score</type>
+        <visible_condition/>
+    </sys_sg_chart_section>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_segment">
+    <sys_sg_form_segment action="INSERT_OR_UPDATE">
+        <embedded_screen display_value="Details">b7197b5d07231010374af85c7c1ed067</embedded_screen>
+        <form display_value="Stories in current sprint">bb197b5d07231010374af85c7c1ed064</form>
+        <order>10</order>
+        <sys_class_name>sys_sg_form_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-28 22:10:12</sys_created_on>
+        <sys_id>33197b5d07231010374af85c7c1ed06a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="K20 Lab" source="x_532486_k20_lab">51443b5907231010374af85c7c1ed060</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="K20 Lab">51443b5907231010374af85c7c1ed060</sys_scope>
+        <sys_update_name>sys_sg_form_segment_33197b5d07231010374af85c7c1ed06a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-28 22:10:12</sys_updated_on>
+    </sys_sg_form_segment>
+</record_update>
